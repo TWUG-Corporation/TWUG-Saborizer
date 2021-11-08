@@ -6,10 +6,10 @@ Saborizer is Open Source and you can support this project adding photos to our l
 
 
 # How To Use Saborizer
-Download Saborizer1.0.1.exe and run it ![Saborizer, Fill Your Belly](Saborizer Logo.png)
+Download Saborizer1.0.1.exe and run it ![Saborizer,Logo](Saborizer Logo.png)
 Follow Steps to Run Saborizer
 if you want Login With A TWUG ID to save the Food you store
 search for a food
 _NOTE_ : Everyone Can Run A .food or .eat or .burger or .drink etc.
 Saborizer JUST emulates a food and his sound if you have TWUG Holdiredo Linked  to Saborizer the food smell
-![Saborizer, Fill Your Belly](Saborizer Logo.png)
+![Saborizer,Logo](Saborizer Logo.png)
